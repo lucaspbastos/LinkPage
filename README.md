@@ -1,6 +1,6 @@
 # LinkPage
 <p align="center">
-  <img src="/frontpage.PNG?">
+  <img src="/frontpage.PNG">
 </p>
 
 Add links to your Instagram posts with your own personal LinkPage feed! Include your LinkPage link in your Instagram bio to allow followers to further interact with your posts and find more information that you attach to them.
