@@ -1,2 +1,3 @@
-# linkpage
+# LinkPage
+
 Instagram link profile.
