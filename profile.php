@@ -30,7 +30,7 @@ if (!$userID) {
 </head>
 <?php
 echo ("<div class='jumbotron center nobottom''>
-    <a href='p**URL**]/linkpage.php'><h1>LinkPage</h1></a>
+    <a href='[**URL**]/linkpage.php'><h1>LinkPage</h1></a>
     <p>Create an Instagram feed with personalized links for each post.</p> 
 </div><br>
 ");
